@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ubeidensamboni@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ubeidensamboni"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/samboni-0812b1196/"}
-  - {title: X, icon: x, url: "https://x.com/UbeidenSamboni"}
+  - {title: X (Twitter), icon: twitter, url: "https://x.com/UbeidenSamboni"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
