@@ -1,6 +1,6 @@
 ---
-title: "About me"
-layout: post
+title: ""
+layout: page
 ---
 
 Hi!
