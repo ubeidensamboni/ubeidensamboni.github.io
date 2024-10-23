@@ -1,6 +1,6 @@
 title: "Ubeiden Samboni"
 author: "Ubeiden Samboni"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+#description: "colocar texto acá"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,14 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "About me"}
+  - {file: "index.html", title: "Home"}
   - {file: "cv-ubeiden.pdf", title: "CV", url: "https://github.com/ubeidensamboni/cv/blob/main/FullCV_Ubeiden.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ubeidensamboni@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ubeidensamboni"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/samboni-0812b1196/"}
-  - {title: X (Twitter), icon: twitter, url: "https://x.com/UbeidenSamboni"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
